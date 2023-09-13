@@ -12,8 +12,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        opensans: ["'Open Sans'", "sans - serif"],
-        roboto: ["'Roboto'", "sans - serif"],
+        opensans: ["'Open Sans'", "sans-serif"],
+        roboto: ["'Roboto'", "sans-serif"],
       },
     },
   },
